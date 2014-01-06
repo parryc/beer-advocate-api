@@ -1,5 +1,7 @@
 # Beer Advocate API
 
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/stursby/beer-advocate-api/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
 Unofficial library for working with Beer Advocate data.
 
 ## Installation
