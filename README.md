@@ -9,7 +9,7 @@ Unofficial library for working with Beer Advocate data.
 #### via [NPM](http://npmjs.org)
 
 ```bash
-$ npm install beer-advocate-api
+$ npm install beer-advocate-api --save-dev
 ```
 
 ## Example
